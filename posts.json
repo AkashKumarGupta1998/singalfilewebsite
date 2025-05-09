@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "title": "Getting Started with Modern JavaScript",
+        "content": "JavaScript has evolved significantly over the past few years. With the introduction of ES6 and subsequent versions, writing JavaScript has become more expressive and powerful. In this post, we'll explore some of the key features that make modern JavaScript so compelling.\n\nFirst, let's talk about arrow functions. These provide a more concise syntax for writing function expressions. They're especially useful for short, single-purpose functions and they handle 'this' differently than traditional functions.\n\nNext, we have template literals. These allow for easier string interpolation and multi-line strings without needing to use concatenation or escape characters.\n\nAnother important feature is destructuring assignment, which makes it easy to unpack values from arrays or properties from objects into distinct variables.",
+        "excerpt": "JavaScript has evolved significantly over the past few years. With the introduction of ES6 and subsequent versions...",
+        "tags": ["javascript", "web development", "es6"],
+        "date": "May 15, 2023",
+        "author": "Your Name"
+    },
+    {
+        "id": "2",
+        "title": "The Power of CSS Grid Layout",
+        "content": "CSS Grid has revolutionized the way we think about web layouts. Unlike Flexbox which is largely one-dimensional, Grid gives us control over both rows and columns simultaneously.\n\nOne of the most powerful features of Grid is the ability to create complex layouts with minimal code. You can define your grid with grid-template-columns and grid-template-rows, then place items exactly where you want them using grid-column and grid-row.\n\nGrid also introduces new units like fr (fractional unit) which makes creating flexible layouts much easier. Combine this with minmax() and you have incredibly responsive designs with very little media query overhead.\n\nIn this post, we'll walk through several practical examples of how to use CSS Grid in real-world projects.",
+        "excerpt": "CSS Grid has revolutionized the way we think about web layouts. Unlike Flexbox which is largely one-dimensional...",
+        "tags": ["css", "web design", "layout"],
+        "date": "April 28, 2023",
+        "author": "Your Name"
+    },
+    {
+        "id": "3",
+        "title": "Building Accessible Web Applications",
+        "content": "Web accessibility is not just a legal requirement in many cases, it's also the right thing to do. Making your applications accessible means they can be used by everyone, regardless of ability.\n\nSome key areas to focus on include:\n\n1. Semantic HTML - Using the correct elements for their intended purpose (buttons for buttons, headings for headings, etc.)\n2. Keyboard navigation - Ensuring all functionality is available via keyboard\n3. ARIA attributes - When native HTML isn't enough, ARIA can help bridge the gap\n4. Color contrast - Making sure text is readable against its background\n5. Alternative text - Providing text alternatives for non-text content\n\nIn this post, we'll dive deeper into each of these areas with practical examples you can implement in your projects today.",
+        "excerpt": "Web accessibility is not just a legal requirement in many cases, it's also the right thing to do. Making your applications...",
+        "tags": ["accessibility", "web development", "inclusion"],
+        "date": "March 10, 2023",
+        "author": "Your Name"
+    }
+]
