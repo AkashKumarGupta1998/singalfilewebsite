@@ -216,17 +216,20 @@ section {
     justify-content: center;
 }
 
-.image-placeholder {
+/* Profile Image Styles */
+.profile-image {
     width: 350px;
     height: 350px;
     border-radius: 50%;
-    background-color: var(--darker-bg);
+    object-fit: cover;
     border: 10px solid var(--primary-color);
     box-shadow: 0 0 30px rgba(108, 92, 231, 0.3);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
+    transition: var(--transition);
+}
+
+.profile-image:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 40px rgba(108, 92, 231, 0.5);
 }
 
 /* About Section */
