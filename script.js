@@ -64,23 +64,23 @@ document.addEventListener('DOMContentLoaded', function() {
     // Populate timeline (experience)
     const experiences = [
         {
-            date: '2021 - Present',
+            date: 'Apr 2024 - Present',
             title: 'Senior Developer at Tech Corp',
             description: 'Leading a team of developers to build innovative web applications using modern technologies.'
         },
         {
-            date: '2018 - 2021',
-            title: 'Software Engineer at Digital Solutions',
-            description: 'Developed and maintained web applications, collaborated with cross-functional teams.'
+            date: 'May 2023 - Dec 2023',
+            title: 'Completed DevOps Training at Sterlite Technology Limited, Patna',
+            description: 'Developed technical skills like automation, scripting, cloud computing, and DevOps tools, alongside soft skills like communication and collaboration.'
         },
         {
-            date: '2016 - 2018',
-            title: 'Junior Developer at Startup Inc',
-            description: 'Assisted in building web applications and learned industry best practices.'
+            date: '2020 - 2023',
+            title: "Master's in chemistry",
+            description: 'Specialization in organic chemistry provides in-depth knowledge of carbon-containing compounds, their structures, reactions, and applications.'
         },
         {
-            date: '2012 - 2016',
-            title: 'Computer Science Degree at University',
+            date: '2016 - 2019 ',
+            title: "Bachelor's in chemistry",
             description: 'Specialized in software development and data structures. Graduated with honors.'
         }
     ];
